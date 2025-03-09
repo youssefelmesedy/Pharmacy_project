@@ -1,0 +1,11 @@
+﻿global using Microsoft.EntityFrameworkCore;
+global using System.Linq.Expressions;
+global using AutoMapper;
+global using RepositoryPatternWithEFCore.EF4;
+global using RepositoryPatternWithUOW.Core.Repositoris; 
+global using RepositoryPatternWithEFCore.EF4.Dtos.DtosCategory;
+global using RepositoryPatternWithEFCore.EF4.Dtos.DtoProduct;
+global using Microsoft.Extensions.Logging;
+global using RepositoryPatternWithEFCore.EF4.Eunm;
+global using RepositoryPatternWithUOW.Core.UnitOfWorek;
+global using RepositoryPatternWithEFCore.EF4.Dtos;

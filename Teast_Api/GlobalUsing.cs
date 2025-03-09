@@ -1,0 +1,16 @@
+﻿global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using AutoMapper;
+global using System.Net;
+global using Teast_Api.Middleware;
+global using System.Text.Json;
+global using RepositoryPatternWithUOW.Core.Repositoris;
+global using RepositoryPatternWithEFCore.EF4;
+global using RepositoryPatternWithUOW.EF4.EntityServices;
+global using RepositoryPatternWithUOW.Core.UnitOfWorek;
+global using RepositoryPatternWithEFCore.EF4.Dtos.DtosCategory;
+global using RepositoryPatternWithEFCore.EF4.Dtos.DtoProduct;
+global using Teast_Api.ServicesProject;
+global using Teast_Api.EntityServices;
+global using RepositoryPatternWithEFCore.EF4.Eunm;
+global using RepositoryPatternWithEFCore.EF4.Dtos.DtoWareHouses;

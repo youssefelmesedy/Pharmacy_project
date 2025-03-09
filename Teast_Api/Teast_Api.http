@@ -1,0 +1,6 @@
+@Teast_Api_HostAddress = http://localhost:5188
+
+GET {{Teast_Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
